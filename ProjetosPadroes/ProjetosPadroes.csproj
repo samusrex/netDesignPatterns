@@ -61,6 +61,10 @@
       <Project>{6d26337f-99f2-4ba5-9007-4446f09a1cf8}</Project>
       <Name>BuilderProj</Name>
     </ProjectReference>
+    <ProjectReference Include="..\FilterProj\FilterProj.csproj">
+      <Project>{57b39f39-0f12-4ccd-a503-6b9b2b714472}</Project>
+      <Name>FilterProj</Name>
+    </ProjectReference>
     <ProjectReference Include="..\ProtoProj\ProtoProj.csproj">
       <Project>{129bfb6e-d771-42bc-a019-bc12fe9991c7}</Project>
       <Name>ProtoProj</Name>

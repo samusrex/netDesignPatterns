@@ -15,7 +15,7 @@ namespace FilterProj
             foreach (var person in persons)
             {
 
-                if (person.GetGender().Equals("SINGLE"))
+                if (person.GetMaritalStatus().Equals("SINGLE"))
                 {
                     res.Add(person);
                 }

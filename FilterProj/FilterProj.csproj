@@ -45,6 +45,7 @@
     <Compile Include="CriteriaFemale.cs" />
     <Compile Include="CriteriaMale.cs" />
     <Compile Include="CriteriaSingle.cs" />
+    <Compile Include="OrCriteria.cs" />
     <Compile Include="Person.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

@@ -12,3 +12,5 @@ C:\Users\hmendonca\documents\visual studio 2017\Projects\ProjetosPadroes\Projeto
 C:\Users\hmendonca\documents\visual studio 2017\Projects\ProjetosPadroes\ProjetosPadroes\bin\Debug\AdapterProj.pdb
 C:\Users\hmendonca\documents\visual studio 2017\Projects\ProjetosPadroes\ProjetosPadroes\bin\Debug\BridgeProj.dll
 C:\Users\hmendonca\documents\visual studio 2017\Projects\ProjetosPadroes\ProjetosPadroes\bin\Debug\BridgeProj.pdb
+C:\Users\hmendonca\documents\visual studio 2017\Projects\ProjetosPadroes\ProjetosPadroes\bin\Debug\FilterProj.dll
+C:\Users\hmendonca\documents\visual studio 2017\Projects\ProjetosPadroes\ProjetosPadroes\bin\Debug\FilterProj.pdb

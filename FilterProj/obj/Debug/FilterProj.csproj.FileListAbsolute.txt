@@ -1,0 +1,5 @@
+C:\Users\hmendonca\documents\visual studio 2017\Projects\ProjetosPadroes\FilterProj\bin\Debug\FilterProj.dll
+C:\Users\hmendonca\documents\visual studio 2017\Projects\ProjetosPadroes\FilterProj\bin\Debug\FilterProj.pdb
+C:\Users\hmendonca\documents\visual studio 2017\Projects\ProjetosPadroes\FilterProj\obj\Debug\FilterProj.csprojResolveAssemblyReference.cache
+C:\Users\hmendonca\documents\visual studio 2017\Projects\ProjetosPadroes\FilterProj\obj\Debug\FilterProj.dll
+C:\Users\hmendonca\documents\visual studio 2017\Projects\ProjetosPadroes\FilterProj\obj\Debug\FilterProj.pdb
