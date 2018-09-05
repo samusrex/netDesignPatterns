@@ -1,0 +1,5 @@
+C:\Users\hmendonca\documents\visual studio 2017\Projects\ProjetosPadroes\BuilderProj\obj\Debug\BuilderProj.csprojResolveAssemblyReference.cache
+C:\Users\hmendonca\documents\visual studio 2017\Projects\ProjetosPadroes\BuilderProj\bin\Debug\BuilderProj.dll
+C:\Users\hmendonca\documents\visual studio 2017\Projects\ProjetosPadroes\BuilderProj\bin\Debug\BuilderProj.pdb
+C:\Users\hmendonca\documents\visual studio 2017\Projects\ProjetosPadroes\BuilderProj\obj\Debug\BuilderProj.dll
+C:\Users\hmendonca\documents\visual studio 2017\Projects\ProjetosPadroes\BuilderProj\obj\Debug\BuilderProj.pdb

@@ -1,0 +1,5 @@
+C:\Users\hmendonca\documents\visual studio 2017\Projects\ProjetosPadroes\AdapterProj\bin\Debug\AdapterProj.dll
+C:\Users\hmendonca\documents\visual studio 2017\Projects\ProjetosPadroes\AdapterProj\bin\Debug\AdapterProj.pdb
+C:\Users\hmendonca\documents\visual studio 2017\Projects\ProjetosPadroes\AdapterProj\obj\Debug\AdapterProj.csprojResolveAssemblyReference.cache
+C:\Users\hmendonca\documents\visual studio 2017\Projects\ProjetosPadroes\AdapterProj\obj\Debug\AdapterProj.dll
+C:\Users\hmendonca\documents\visual studio 2017\Projects\ProjetosPadroes\AdapterProj\obj\Debug\AdapterProj.pdb
